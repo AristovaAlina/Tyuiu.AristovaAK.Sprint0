@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AristovaAK.Sprint0.Task0.V0", "Tyuiu.AristovaAK.Sprint0.Task0.V0\Tyuiu.AristovaAK.Sprint0.Task0.V0.csproj", "{60AA7761-7DD8-493B-9A3C-451355D319A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{F4894297-A499-4462-A623-78CE9E409442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AristovaAK.Sprint0.Task1.V0", "Tyuiu.AristovaAK.Sprint0.Task1.V0\Tyuiu.AristovaAK.Sprint0.Task1.V0.csproj", "{647F6FAF-0B47-4020-A879-33BE4BB483B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{60AA7761-7DD8-493B-9A3C-451355D319A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60AA7761-7DD8-493B-9A3C-451355D319A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60AA7761-7DD8-493B-9A3C-451355D319A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647F6FAF-0B47-4020-A879-33BE4BB483B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647F6FAF-0B47-4020-A879-33BE4BB483B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647F6FAF-0B47-4020-A879-33BE4BB483B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647F6FAF-0B47-4020-A879-33BE4BB483B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{60AA7761-7DD8-493B-9A3C-451355D319A4} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{647F6FAF-0B47-4020-A879-33BE4BB483B5} = {F4894297-A499-4462-A623-78CE9E409442}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {274DE462-0BF2-415C-880A-F2DDD381CC19}
