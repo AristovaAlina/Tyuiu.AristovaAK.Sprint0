@@ -8,5 +8,6 @@ internal class Program
         Console.WriteLine(DataService.Subtraction(15, 5));
         Console.WriteLine(DataService.Multiplication(10, 10));
         Console.WriteLine(DataService.Division(5, 5));
+        Console.ReadKey(); 
     }
 }
